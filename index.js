@@ -7,7 +7,7 @@ class Cat {
   }
   
   speak(){
-    return ` ${this.name} meow`
+    return ` ${this.name} say meow`
   }
 
 }
@@ -19,7 +19,7 @@ class Dog {
   }
   
    speak(){
-    
+      return ` ${this.name} say woof`
   }
   
 }
@@ -31,7 +31,7 @@ class Bird {
   }
   
    speak(){
-    
+            return  if(this.sex==male)
   }
   
 }
