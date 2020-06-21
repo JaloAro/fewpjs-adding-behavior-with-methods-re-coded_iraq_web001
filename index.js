@@ -14,7 +14,6 @@ class Cat {
 
 
 
-let c=new Cat("cat",male)
 
 class Dog {
   constructor(name,sex){
