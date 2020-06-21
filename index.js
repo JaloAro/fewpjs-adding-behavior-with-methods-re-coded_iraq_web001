@@ -14,12 +14,12 @@ class Cat {
 
 class Dog {
   constructor(name,sex){
-     this.name=name
-    this.sex=sex
+     this.name=name;
+    this.sex=sex;
   }
   
    speak(){
-      return ` ${this.name} says woof!`
+      return ` ${this.name} says woof!`;
   }
   
 }
