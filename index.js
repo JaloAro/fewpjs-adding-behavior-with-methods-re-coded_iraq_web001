@@ -3,3 +3,7 @@
 class Cat {
   //...
 }
+
+class Dog {
+  //...
+}
